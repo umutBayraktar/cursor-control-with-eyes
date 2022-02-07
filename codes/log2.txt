@@ -1,0 +1,722 @@
+height: 1080
+y_rate: -0.13425925925925927
+True
+eye info x :704 y :419
+eye info x :586 y :417
+j: 0
+j: 1
+j: 2
+True
+eye info x :703 y :418
+j: 0
+j: 1
+eye info x :590 y :423
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+True
+eye info x :707 y :422
+j: 0
+j: 1
+True
+eye info x :705 y :422
+j: 0
+j: 1
+eye info x :590 y :416
+j: 0
+j: 1
+j: 2
+j: 3
+True
+eye info x :703 y :422
+True
+eye info x :697 y :417
+eye info x :586 y :426
+True
+eye info x :705 y :421
+j: 0
+eye info x :589 y :421
+True
+eye info x :704 y :422
+eye info x :611 y :423
+True
+eye info x :705 y :421
+eye info x :590 y :426
+j: 0
+True
+eye info x :706 y :424
+eye info x :591 y :424
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+True
+eye info x :703 y :421
+eye info x :588 y :413
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+j: 6
+j: 7
+j: 8
+j: 9
+True
+eye info x :699 y :418
+True
+eye info x :700 y :420
+True
+eye info x :701 y :420
+True
+eye info x :702 y :419
+j: 0
+True
+eye info x :703 y :421
+j: 0
+True
+eye info x :589 y :428
+j: 0
+j: 1
+j: 2
+eye info x :704 y :421
+True
+eye info x :704 y :421
+eye info x :594 y :419
+j: 0
+j: 1
+j: 2
+True
+eye info x :591 y :420
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+eye info x :706 y :422
+j: 0
+True
+eye info x :701 y :419
+True
+eye info x :706 y :421
+True
+eye info x :586 y :414
+eye info x :701 y :419
+j: 0
+j: 1
+True
+eye info x :705 y :420
+True
+eye info x :702 y :420
+eye info x :594 y :424
+j: 0
+True
+eye info x :704 y :421
+True
+eye info x :701 y :419
+j: 0
+True
+eye info x :700 y :418
+True
+eye info x :699 y :420
+True
+eye info x :694 y :416
+j: 0
+True
+eye info x :704 y :421
+j: 0
+True
+eye info x :699 y :418
+eye info x :586 y :424
+j: 0
+j: 1
+j: 2
+True
+eye info x :700 y :421
+True
+eye info x :692 y :415
+True
+eye info x :701 y :421
+eye info x :593 y :423
+j: 0
+True
+eye info x :700 y :421
+eye info x :593 y :424
+j: 0
+j: 1
+True
+eye info x :697 y :419
+True
+eye info x :698 y :421
+True
+eye info x :692 y :416
+eye info x :583 y :423
+j: 0
+True
+eye info x :697 y :420
+eye info x :586 y :422
+j: 0
+True
+eye info x :587 y :424
+j: 0
+j: 1
+j: 2
+eye info x :697 y :419
+True
+eye info x :580 y :421
+j: 0
+j: 1
+j: 2
+j: 3
+eye info x :696 y :420
+True
+eye info x :699 y :419
+True
+eye info x :693 y :417
+j: 0
+True
+eye info x :691 y :415
+True
+eye info x :696 y :419
+True
+eye info x :696 y :419
+eye info x :587 y :422
+j: 0
+j: 1
+j: 2
+True
+eye info x :696 y :419
+True
+eye info x :697 y :421
+eye info x :587 y :427
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+j: 6
+True
+eye info x :695 y :420
+eye info x :584 y :414
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+j: 6
+True
+eye info x :693 y :417
+True
+eye info x :694 y :418
+eye info x :588 y :422
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+True
+eye info x :692 y :418
+eye info x :586 y :420
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+j: 6
+True
+eye info x :694 y :420
+True
+eye info x :695 y :420
+j: 0
+j: 1
+j: 2
+j: 3
+True
+eye info x :686 y :415
+j: 0
+j: 1
+eye info x :585 y :416
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+True
+eye info x :691 y :416
+True
+eye info x :687 y :415
+eye info x :578 y :416
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+j: 6
+True
+eye info x :687 y :416
+eye info x :582 y :424
+True
+eye info x :693 y :421
+eye info x :581 y :418
+j: 0
+j: 1
+j: 2
+True
+eye info x :690 y :419
+True
+eye info x :694 y :420
+eye info x :586 y :436
+True
+eye info x :687 y :416
+True
+eye info x :686 y :415
+True
+eye info x :689 y :418
+eye info x :582 y :428
+True
+eye info x :691 y :418
+eye info x :587 y :424
+j: 0
+j: 1
+j: 2
+j: 3
+True
+eye info x :692 y :422
+eye info x :582 y :425
+j: 0
+True
+eye info x :690 y :421
+True
+eye info x :689 y :420
+eye info x :581 y :426
+j: 0
+True
+eye info x :581 y :416
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+j: 6
+eye info x :692 y :422
+True
+eye info x :687 y :419
+eye info x :575 y :423
+True
+eye info x :689 y :419
+j: 0
+eye info x :584 y :420
+j: 0
+j: 1
+j: 2
+True
+eye info x :685 y :413
+j: 0
+j: 1
+True
+eye info x :687 y :419
+True
+eye info x :690 y :421
+eye info x :582 y :432
+j: 0
+j: 1
+True
+eye info x :684 y :418
+True
+eye info x :687 y :416
+j: 0
+eye info x :577 y :424
+j: 0
+j: 1
+j: 2
+j: 3
+True
+eye info x :690 y :418
+j: 0
+True
+eye info x :686 y :416
+True
+eye info x :687 y :421
+eye info x :582 y :427
+True
+eye info x :688 y :418
+j: 0
+j: 1
+eye info x :579 y :430
+j: 0
+j: 1
+j: 2
+j: 3
+True
+eye info x :688 y :417
+j: 0
+j: 1
+j: 2
+True
+eye info x :692 y :420
+j: 0
+j: 1
+j: 2
+j: 3
+eye info x :582 y :427
+j: 0
+True
+eye info x :689 y :420
+eye info x :586 y :426
+j: 0
+j: 1
+True
+eye info x :677 y :412
+j: 0
+True
+eye info x :692 y :420
+j: 0
+True
+eye info x :691 y :419
+eye info x :584 y :417
+j: 0
+True
+eye info x :688 y :419
+True
+eye info x :686 y :418
+j: 0
+j: 1
+eye info x :588 y :429
+j: 0
+j: 1
+j: 2
+True
+eye info x :683 y :414
+eye info x :583 y :424
+True
+eye info x :686 y :417
+True
+eye info x :688 y :419
+eye info x :584 y :421
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+True
+eye info x :684 y :412
+eye info x :577 y :419
+j: 0
+j: 1
+j: 2
+j: 3
+True
+eye info x :688 y :419
+j: 0
+True
+eye info x :582 y :424
+eye info x :690 y :417
+True
+eye info x :686 y :415
+j: 0
+eye info x :584 y :425
+True
+eye info x :683 y :413
+j: 0
+eye info x :583 y :429
+j: 0
+j: 1
+j: 2
+True
+eye info x :691 y :419
+j: 0
+j: 1
+j: 2
+x_min: 464
+x_max: 456
+x_rate:-0.004166666666666667
+cursor coordinates: x:960 y:540
+x_prev_coord: 465
+y_prev_coord: 737
+Basla
+sag diff_x>0
+yukari diff_y<0
+eye_x: 469, eye_y: 733
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 465 y_prev_coord : 737
+new_x_coord: 960, new_y_coord: 540
+cursor coordinates: x:960 y:540
+sol diff_x<0
+yukari diff_y<0
+eye_x: 468, eye_y: 625
+distance_x: 0.0, distance_y: 1.0
+x_prev_coord: 469 y_prev_coord : 733
+new_x_coord: 960, new_y_coord: 539
+cursor coordinates: x:960 y:539
+sol diff_x<0
+asagi diff_y>0
+eye_x: 466, eye_y: 630
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 468 y_prev_coord : 625
+new_x_coord: 960, new_y_coord: 539
+cursor coordinates: x:960 y:539
+sag diff_x>0
+yukari diff_y<0
+eye_x: 468, eye_y: 627
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 466 y_prev_coord : 630
+new_x_coord: 960, new_y_coord: 539
+cursor coordinates: x:960 y:539
+sag diff_x>0
+yukari diff_y<0
+eye_x: 474, eye_y: 620
+distance_x: 1.0, distance_y: 0.0
+x_prev_coord: 468 y_prev_coord : 627
+new_x_coord: 961, new_y_coord: 539
+cursor coordinates: x:961 y:539
+sol diff_x<0
+asagi diff_y>0
+eye_x: 472, eye_y: 624
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 474 y_prev_coord : 620
+new_x_coord: 961, new_y_coord: 539
+cursor coordinates: x:961 y:539
+sol diff_x<0
+asagi diff_y>0
+eye_x: 468, eye_y: 627
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 472 y_prev_coord : 624
+new_x_coord: 961, new_y_coord: 539
+cursor coordinates: x:961 y:539
+sag diff_x>0
+yukari diff_y<0
+eye_x: 477, eye_y: 619
+distance_x: 1.0, distance_y: 0.0
+x_prev_coord: 468 y_prev_coord : 627
+new_x_coord: 962, new_y_coord: 539
+cursor coordinates: x:962 y:539
+sol diff_x<0
+asagi diff_y>0
+eye_x: 471, eye_y: 621
+distance_x: 1.0, distance_y: 0.0
+x_prev_coord: 477 y_prev_coord : 619
+new_x_coord: 961, new_y_coord: 539
+cursor coordinates: x:961 y:539
+sol diff_x<0
+asagi diff_y>0
+eye_x: 454, eye_y: 727
+distance_x: 3.0, distance_y: 1.0
+x_prev_coord: 471 y_prev_coord : 621
+new_x_coord: 958, new_y_coord: 540
+cursor coordinates: x:958 y:540
+sag diff_x>0
+yukari diff_y<0
+eye_x: 475, eye_y: 617
+distance_x: 3.0, distance_y: 1.0
+x_prev_coord: 454 y_prev_coord : 727
+new_x_coord: 961, new_y_coord: 539
+cursor coordinates: x:961 y:539
+sol diff_x<0
+asagi diff_y>0
+eye_x: 455, eye_y: 727
+distance_x: 3.0, distance_y: 1.0
+x_prev_coord: 475 y_prev_coord : 617
+new_x_coord: 958, new_y_coord: 540
+cursor coordinates: x:958 y:540
+sol diff_x<0
+asagi diff_y>0
+eye_x: 447, eye_y: 732
+distance_x: 1.0, distance_y: 0.0
+x_prev_coord: 455 y_prev_coord : 727
+new_x_coord: 957, new_y_coord: 540
+cursor coordinates: x:957 y:540
+sag diff_x>0
+yukari diff_y<0
+eye_x: 471, eye_y: 622
+distance_x: 4.0, distance_y: 1.0
+x_prev_coord: 447 y_prev_coord : 732
+new_x_coord: 961, new_y_coord: 539
+cursor coordinates: x:961 y:539
+sol diff_x<0
+asagi diff_y>0
+eye_x: 466, eye_y: 627
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 471 y_prev_coord : 622
+new_x_coord: 961, new_y_coord: 539
+cursor coordinates: x:961 y:539
+sol diff_x<0
+asagi diff_y>0
+eye_x: 455, eye_y: 728
+distance_x: 2.0, distance_y: 1.0
+x_prev_coord: 466 y_prev_coord : 627
+new_x_coord: 959, new_y_coord: 540
+cursor coordinates: x:959 y:540
+sag diff_x>0
+asagi diff_y>0
+eye_x: 468, eye_y: 734
+distance_x: 2.0, distance_y: 0.0
+x_prev_coord: 455 y_prev_coord : 728
+new_x_coord: 961, new_y_coord: 540
+cursor coordinates: x:961 y:540
+sol diff_x<0
+yukari diff_y<0
+eye_x: 467, eye_y: 629
+distance_x: 0.0, distance_y: 1.0
+x_prev_coord: 468 y_prev_coord : 734
+new_x_coord: 961, new_y_coord: 539
+cursor coordinates: x:961 y:539
+sag diff_x>0
+yukari diff_y<0
+eye_x: 474, eye_y: 614
+distance_x: 1.0, distance_y: 0.0
+x_prev_coord: 467 y_prev_coord : 629
+new_x_coord: 962, new_y_coord: 539
+cursor coordinates: x:962 y:539
+sol diff_x<0
+asagi diff_y>0
+eye_x: 443, eye_y: 732
+distance_x: 5.0, distance_y: 1.0
+x_prev_coord: 474 y_prev_coord : 614
+new_x_coord: 957, new_y_coord: 540
+cursor coordinates: x:957 y:540
+sag diff_x>0
+yukari diff_y<0
+eye_x: 450, eye_y: 728
+distance_x: 1.0, distance_y: 0.0
+x_prev_coord: 443 y_prev_coord : 732
+new_x_coord: 958, new_y_coord: 540
+cursor coordinates: x:958 y:540
+sag diff_x>0
+yukari diff_y<0
+eye_x: 477, eye_y: 620
+distance_x: 5.0, distance_y: 1.0
+x_prev_coord: 450 y_prev_coord : 728
+new_x_coord: 963, new_y_coord: 539
+cursor coordinates: x:963 y:539
+sol diff_x<0
+asagi diff_y>0
+eye_x: 454, eye_y: 725
+distance_x: 4.0, distance_y: 1.0
+x_prev_coord: 477 y_prev_coord : 620
+new_x_coord: 959, new_y_coord: 540
+cursor coordinates: x:959 y:540
+sag diff_x>0
+yukari diff_y<0
+eye_x: 471, eye_y: 623
+distance_x: 3.0, distance_y: 1.0
+x_prev_coord: 454 y_prev_coord : 725
+new_x_coord: 962, new_y_coord: 539
+cursor coordinates: x:962 y:539
+sag diff_x>0
+asagi diff_y>0
+eye_x: 472, eye_y: 625
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 471 y_prev_coord : 623
+new_x_coord: 962, new_y_coord: 539
+cursor coordinates: x:962 y:539
+sol diff_x<0
+asagi diff_y>0
+eye_x: 453, eye_y: 729
+distance_x: 3.0, distance_y: 1.0
+x_prev_coord: 472 y_prev_coord : 625
+new_x_coord: 959, new_y_coord: 540
+cursor coordinates: x:959 y:540
+sag diff_x>0
+yukari diff_y<0
+eye_x: 454, eye_y: 728
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 453 y_prev_coord : 729
+new_x_coord: 959, new_y_coord: 540
+cursor coordinates: x:959 y:540
+sag diff_x>0
+yukari diff_y<0
+eye_x: 473, eye_y: 624
+distance_x: 3.0, distance_y: 1.0
+x_prev_coord: 454 y_prev_coord : 728
+new_x_coord: 962, new_y_coord: 539
+cursor coordinates: x:962 y:539
+sag diff_x>0
+yukari diff_y<0
+eye_x: 474, eye_y: 618
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 473 y_prev_coord : 624
+new_x_coord: 962, new_y_coord: 539
+cursor coordinates: x:962 y:539
+sol diff_x<0
+asagi diff_y>0
+eye_x: 467, eye_y: 626
+distance_x: 1.0, distance_y: 0.0
+x_prev_coord: 474 y_prev_coord : 618
+new_x_coord: 961, new_y_coord: 539
+cursor coordinates: x:961 y:539
+sol diff_x<0
+asagi diff_y>0
+eye_x: 461, eye_y: 631
+distance_x: 1.0, distance_y: 0.0
+x_prev_coord: 467 y_prev_coord : 626
+new_x_coord: 960, new_y_coord: 539
+cursor coordinates: x:960 y:539
+sol diff_x<0
+asagi diff_y>0
+eye_x: 460, eye_y: 633
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 461 y_prev_coord : 631
+new_x_coord: 960, new_y_coord: 539
+cursor coordinates: x:960 y:539
+sag diff_x>0
+yukari diff_y<0
+eye_x: 475, eye_y: 623
+distance_x: 2.0, distance_y: 0.0
+x_prev_coord: 460 y_prev_coord : 633
+new_x_coord: 962, new_y_coord: 539
+cursor coordinates: x:962 y:539
+fark yok
+sol diff_x<0
+asagi diff_y>0
+eye_x: 470, eye_y: 628
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 475 y_prev_coord : 623
+new_x_coord: 962, new_y_coord: 539
+cursor coordinates: x:962 y:539
+sag diff_x>0
+yukari diff_y<0
+eye_x: 472, eye_y: 627
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 470 y_prev_coord : 628
+new_x_coord: 962, new_y_coord: 539
+cursor coordinates: x:962 y:539
+sol diff_x<0
+asagi diff_y>0
+eye_x: 464, eye_y: 737
+distance_x: 1.0, distance_y: 1.0
+x_prev_coord: 472 y_prev_coord : 627
+new_x_coord: 961, new_y_coord: 540
+cursor coordinates: x:961 y:540
+fark yok
+sag diff_x>0
+yukari diff_y<0
+eye_x: 468, eye_y: 629
+distance_x: 0.0, distance_y: 1.0
+x_prev_coord: 464 y_prev_coord : 737
+new_x_coord: 961, new_y_coord: 539
+cursor coordinates: x:961 y:539
+sag diff_x>0
+yukari diff_y<0
+eye_x: 471, eye_y: 627
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 468 y_prev_coord : 629
+new_x_coord: 961, new_y_coord: 539
+cursor coordinates: x:961 y:539
+sol diff_x<0
+asagi diff_y>0
+eye_x: 453, eye_y: 746
+distance_x: 3.0, distance_y: 1.0
+x_prev_coord: 471 y_prev_coord : 627
+new_x_coord: 958, new_y_coord: 540
+cursor coordinates: x:958 y:540

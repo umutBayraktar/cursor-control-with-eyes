@@ -1,0 +1,444 @@
+height: 1080
+y_rate: 0.018518518518518517
+x_rate:0.005729166666666666
+Basla
+eye_x: 218, eye_y: 236
+distance_x: 67.0, distance_y: 15.0
+x_prev_coord: 960 y_prev_coord : 540 //prevleri eye koordinarlatri olarak ayarla
+new_x_coord: 893, new_y_coord: 525
+eye_x: 222, eye_y: 322
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 218 y_prev_coord : 236
+new_x_coord: 218, new_y_coord: 240
+eye_x: 224, eye_y: 216
+distance_x: 0.0, distance_y: 5.0
+x_prev_coord: 222 y_prev_coord : 322
+new_x_coord: 222, new_y_coord: 317
+eye_x: 219, eye_y: 326
+distance_x: 0.0, distance_y: 5.0
+x_prev_coord: 224 y_prev_coord : 216
+new_x_coord: 224, new_y_coord: 221
+eye_x: 211, eye_y: 319
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 219 y_prev_coord : 326
+new_x_coord: 219, new_y_coord: 326
+eye_x: 219, eye_y: 233
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 211 y_prev_coord : 319
+new_x_coord: 211, new_y_coord: 315
+eye_x: 229, eye_y: 233
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 219 y_prev_coord : 233
+new_x_coord: 219, new_y_coord: 315
+eye_x: 213, eye_y: 236
+distance_x: 1.0, distance_y: 0.0
+x_prev_coord: 229 y_prev_coord : 233
+new_x_coord: 228, new_y_coord: 233
+eye_x: 222, eye_y: 320
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 213 y_prev_coord : 236
+new_x_coord: 213, new_y_coord: 240
+eye_x: 222, eye_y: 321
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 222 y_prev_coord : 320
+new_x_coord: 213, new_y_coord: 320
+eye_x: 231, eye_y: 233
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 222 y_prev_coord : 321
+new_x_coord: 222, new_y_coord: 317
+eye_x: 236, eye_y: 225
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 231 y_prev_coord : 233
+new_x_coord: 231, new_y_coord: 233
+eye_x: 225, eye_y: 317
+distance_x: 1.0, distance_y: 4.0
+x_prev_coord: 236 y_prev_coord : 225
+new_x_coord: 235, new_y_coord: 229
+eye_x: 212, eye_y: 297
+distance_x: 1.0, distance_y: 1.0
+x_prev_coord: 225 y_prev_coord : 317
+new_x_coord: 224, new_y_coord: 316
+eye_x: 213, eye_y: 311
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 212 y_prev_coord : 297
+new_x_coord: 212, new_y_coord: 297
+eye_x: 227, eye_y: 236
+distance_x: 1.0, distance_y: 3.0
+x_prev_coord: 213 y_prev_coord : 311
+new_x_coord: 214, new_y_coord: 308
+eye_x: 231, eye_y: 229
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 227 y_prev_coord : 236
+new_x_coord: 227, new_y_coord: 236
+eye_x: 230, eye_y: 294
+distance_x: 0.0, distance_y: 3.0
+x_prev_coord: 231 y_prev_coord : 229
+new_x_coord: 231, new_y_coord: 232
+eye_x: 225, eye_y: 239
+distance_x: 0.0, distance_y: 2.0
+x_prev_coord: 230 y_prev_coord : 294
+new_x_coord: 230, new_y_coord: 292
+eye_x: 217, eye_y: 315
+distance_x: 0.0, distance_y: 3.0
+x_prev_coord: 225 y_prev_coord : 239
+new_x_coord: 225, new_y_coord: 242
+eye_x: 215, eye_y: 296
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 217 y_prev_coord : 315
+new_x_coord: 217, new_y_coord: 315
+eye_x: 231, eye_y: 229
+distance_x: 1.0, distance_y: 3.0
+x_prev_coord: 215 y_prev_coord : 296
+new_x_coord: 216, new_y_coord: 293
+eye_x: 228, eye_y: 312
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 231 y_prev_coord : 229
+new_x_coord: 231, new_y_coord: 233
+eye_x: 221, eye_y: 240
+distance_x: 0.0, distance_y: 3.0
+x_prev_coord: 228 y_prev_coord : 312
+new_x_coord: 228, new_y_coord: 309
+eye_x: 217, eye_y: 311
+distance_x: 0.0, distance_y: 3.0
+x_prev_coord: 221 y_prev_coord : 240
+new_x_coord: 221, new_y_coord: 243
+eye_x: 236, eye_y: 219
+distance_x: 1.0, distance_y: 4.0
+x_prev_coord: 217 y_prev_coord : 311
+new_x_coord: 218, new_y_coord: 307
+eye_x: 221, eye_y: 318
+distance_x: 1.0, distance_y: 4.0
+x_prev_coord: 236 y_prev_coord : 219
+new_x_coord: 235, new_y_coord: 223
+eye_x: 212, eye_y: 294
+distance_x: 0.0, distance_y: 1.0
+x_prev_coord: 221 y_prev_coord : 318
+new_x_coord: 221, new_y_coord: 317
+eye_x: 229, eye_y: 234
+distance_x: 1.0, distance_y: 3.0
+x_prev_coord: 212 y_prev_coord : 294
+new_x_coord: 213, new_y_coord: 291
+eye_x: 212, eye_y: 312
+distance_x: 1.0, distance_y: 3.0
+x_prev_coord: 229 y_prev_coord : 234
+new_x_coord: 228, new_y_coord: 237
+eye_x: 232, eye_y: 224
+distance_x: 1.0, distance_y: 4.0
+x_prev_coord: 212 y_prev_coord : 312
+new_x_coord: 213, new_y_coord: 308
+eye_x: 213, eye_y: 294
+distance_x: 1.0, distance_y: 3.0
+x_prev_coord: 232 y_prev_coord : 224
+new_x_coord: 231, new_y_coord: 227
+eye_x: 211, eye_y: 298
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 213 y_prev_coord : 294
+new_x_coord: 213, new_y_coord: 294
+eye_x: 230, eye_y: 230
+distance_x: 1.0, distance_y: 3.0
+x_prev_coord: 211 y_prev_coord : 298
+new_x_coord: 212, new_y_coord: 295
+eye_x: 230, eye_y: 228
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 230 y_prev_coord : 230
+new_x_coord: 212, new_y_coord: 230
+eye_x: 207, eye_y: 317
+distance_x: 2.0, distance_y: 4.0
+x_prev_coord: 230 y_prev_coord : 228
+new_x_coord: 228, new_y_coord: 232
+eye_x: 203, eye_y: 319
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 207 y_prev_coord : 317
+new_x_coord: 207, new_y_coord: 317
+eye_x: 215, eye_y: 304
+distance_x: 1.0, distance_y: 0.0
+x_prev_coord: 203 y_prev_coord : 319
+new_x_coord: 204, new_y_coord: 319
+eye_x: 226, eye_y: 348
+distance_x: 1.0, distance_y: 2.0
+x_prev_coord: 215 y_prev_coord : 304
+new_x_coord: 216, new_y_coord: 306
+eye_x: 220, eye_y: 277
+distance_x: 0.0, distance_y: 3.0
+x_prev_coord: 226 y_prev_coord : 348
+new_x_coord: 226, new_y_coord: 345
+eye_x: 229, eye_y: 287
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 220 y_prev_coord : 277
+new_x_coord: 220, new_y_coord: 277
+eye_x: 231, eye_y: 371
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 229 y_prev_coord : 287
+new_x_coord: 229, new_y_coord: 291
+eye_x: 230, eye_y: 364
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 231 y_prev_coord : 371
+new_x_coord: 231, new_y_coord: 371
+eye_x: 229, eye_y: 277
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 230 y_prev_coord : 364
+new_x_coord: 230, new_y_coord: 360
+eye_x: 214, eye_y: 274
+distance_x: 1.0, distance_y: 0.0
+x_prev_coord: 229 y_prev_coord : 277
+new_x_coord: 228, new_y_coord: 277
+eye_x: 221, eye_y: 271
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 214 y_prev_coord : 274
+new_x_coord: 214, new_y_coord: 274
+eye_x: 220, eye_y: 342
+distance_x: 0.0, distance_y: 3.0
+x_prev_coord: 221 y_prev_coord : 271
+new_x_coord: 221, new_y_coord: 274
+eye_x: 220, eye_y: 271
+distance_x: 0.0, distance_y: 3.0
+x_prev_coord: 220 y_prev_coord : 342
+new_x_coord: 221, new_y_coord: 339
+eye_x: 223, eye_y: 342
+distance_x: 0.0, distance_y: 3.0
+x_prev_coord: 220 y_prev_coord : 271
+new_x_coord: 220, new_y_coord: 274
+eye_x: 225, eye_y: 338
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 223 y_prev_coord : 342
+new_x_coord: 223, new_y_coord: 342
+eye_x: 213, eye_y: 270
+distance_x: 1.0, distance_y: 3.0
+x_prev_coord: 225 y_prev_coord : 338
+new_x_coord: 224, new_y_coord: 335
+eye_x: 215, eye_y: 354
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 213 y_prev_coord : 270
+new_x_coord: 213, new_y_coord: 274
+eye_x: 210, eye_y: 354
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 215 y_prev_coord : 354
+new_x_coord: 215, new_y_coord: 274
+eye_x: 233, eye_y: 260
+distance_x: 2.0, distance_y: 4.0
+x_prev_coord: 210 y_prev_coord : 354
+new_x_coord: 212, new_y_coord: 350
+eye_x: 216, eye_y: 348
+distance_x: 1.0, distance_y: 4.0
+x_prev_coord: 233 y_prev_coord : 260
+new_x_coord: 232, new_y_coord: 264
+eye_x: 214, eye_y: 356
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 216 y_prev_coord : 348
+new_x_coord: 216, new_y_coord: 348
+eye_x: 218, eye_y: 261
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 214 y_prev_coord : 356
+new_x_coord: 214, new_y_coord: 352
+eye_x: 219, eye_y: 323
+distance_x: 0.0, distance_y: 3.0
+x_prev_coord: 218 y_prev_coord : 261
+new_x_coord: 218, new_y_coord: 264
+eye_x: 241, eye_y: 246
+distance_x: 2.0, distance_y: 3.0
+x_prev_coord: 219 y_prev_coord : 323
+new_x_coord: 221, new_y_coord: 320
+eye_x: 212, eye_y: 346
+distance_x: 2.0, distance_y: 5.0
+x_prev_coord: 241 y_prev_coord : 246
+new_x_coord: 239, new_y_coord: 251
+eye_x: 222, eye_y: 253
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 212 y_prev_coord : 346
+new_x_coord: 212, new_y_coord: 342
+eye_x: 222, eye_y: 251
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 222 y_prev_coord : 253
+new_x_coord: 212, new_y_coord: 253
+eye_x: 212, eye_y: 344
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 222 y_prev_coord : 251
+new_x_coord: 222, new_y_coord: 255
+eye_x: 237, eye_y: 247
+distance_x: 2.0, distance_y: 4.0
+x_prev_coord: 212 y_prev_coord : 344
+new_x_coord: 214, new_y_coord: 340
+eye_x: 219, eye_y: 323
+distance_x: 1.0, distance_y: 3.0
+x_prev_coord: 237 y_prev_coord : 247
+new_x_coord: 236, new_y_coord: 250
+eye_x: 220, eye_y: 253
+distance_x: 0.0, distance_y: 3.0
+x_prev_coord: 219 y_prev_coord : 323
+new_x_coord: 219, new_y_coord: 320
+eye_x: 214, eye_y: 340
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 220 y_prev_coord : 253
+new_x_coord: 220, new_y_coord: 257
+eye_x: 216, eye_y: 257
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 214 y_prev_coord : 340
+new_x_coord: 214, new_y_coord: 336
+eye_x: 209, eye_y: 339
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 216 y_prev_coord : 257
+new_x_coord: 216, new_y_coord: 261
+eye_x: 230, eye_y: 245
+distance_x: 1.0, distance_y: 4.0
+x_prev_coord: 209 y_prev_coord : 339
+new_x_coord: 210, new_y_coord: 335
+eye_x: 212, eye_y: 350
+distance_x: 1.0, distance_y: 5.0
+x_prev_coord: 230 y_prev_coord : 245
+new_x_coord: 229, new_y_coord: 250
+eye_x: 227, eye_y: 244
+distance_x: 1.0, distance_y: 5.0
+x_prev_coord: 212 y_prev_coord : 350
+new_x_coord: 213, new_y_coord: 345
+eye_x: 221, eye_y: 250
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 227 y_prev_coord : 244
+new_x_coord: 227, new_y_coord: 244
+eye_x: 211, eye_y: 340
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 221 y_prev_coord : 250
+new_x_coord: 221, new_y_coord: 254
+eye_x: 216, eye_y: 344
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 211 y_prev_coord : 340
+new_x_coord: 211, new_y_coord: 340
+eye_x: 238, eye_y: 242
+distance_x: 2.0, distance_y: 5.0
+x_prev_coord: 216 y_prev_coord : 344
+new_x_coord: 218, new_y_coord: 339
+eye_x: 219, eye_y: 321
+distance_x: 1.0, distance_y: 3.0
+x_prev_coord: 238 y_prev_coord : 242
+new_x_coord: 237, new_y_coord: 245
+eye_x: 218, eye_y: 254
+distance_x: 0.0, distance_y: 3.0
+x_prev_coord: 219 y_prev_coord : 321
+new_x_coord: 219, new_y_coord: 318
+eye_x: 237, eye_y: 241
+distance_x: 1.0, distance_y: 0.0
+x_prev_coord: 218 y_prev_coord : 254
+new_x_coord: 219, new_y_coord: 254
+eye_x: 229, eye_y: 335
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 237 y_prev_coord : 241
+new_x_coord: 237, new_y_coord: 245
+eye_x: 240, eye_y: 243
+distance_x: 1.0, distance_y: 4.0
+x_prev_coord: 229 y_prev_coord : 335
+new_x_coord: 230, new_y_coord: 331
+eye_x: 212, eye_y: 339
+distance_x: 2.0, distance_y: 4.0
+x_prev_coord: 240 y_prev_coord : 243
+new_x_coord: 238, new_y_coord: 247
+eye_x: 242, eye_y: 237
+distance_x: 2.0, distance_y: 5.0
+x_prev_coord: 212 y_prev_coord : 339
+new_x_coord: 214, new_y_coord: 334
+eye_x: 225, eye_y: 244
+distance_x: 1.0, distance_y: 0.0
+x_prev_coord: 242 y_prev_coord : 237
+new_x_coord: 241, new_y_coord: 237
+eye_x: 208, eye_y: 336
+distance_x: 1.0, distance_y: 4.0
+x_prev_coord: 225 y_prev_coord : 244
+new_x_coord: 224, new_y_coord: 248
+eye_x: 220, eye_y: 248
+distance_x: 1.0, distance_y: 4.0
+x_prev_coord: 208 y_prev_coord : 336
+new_x_coord: 209, new_y_coord: 332
+eye_x: 227, eye_y: 335
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 220 y_prev_coord : 248
+new_x_coord: 220, new_y_coord: 252
+eye_x: 221, eye_y: 247
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 227 y_prev_coord : 335
+new_x_coord: 227, new_y_coord: 331
+eye_x: 217, eye_y: 338
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 221 y_prev_coord : 247
+new_x_coord: 221, new_y_coord: 251
+eye_x: 227, eye_y: 243
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 217 y_prev_coord : 338
+new_x_coord: 217, new_y_coord: 334
+eye_x: 223, eye_y: 249
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 227 y_prev_coord : 243
+new_x_coord: 227, new_y_coord: 243
+eye_x: 231, eye_y: 346
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 223 y_prev_coord : 249
+new_x_coord: 223, new_y_coord: 253
+eye_x: 222, eye_y: 255
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 231 y_prev_coord : 346
+new_x_coord: 231, new_y_coord: 342
+eye_x: 228, eye_y: 340
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 222 y_prev_coord : 255
+new_x_coord: 222, new_y_coord: 259
+eye_x: 226, eye_y: 249
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 228 y_prev_coord : 340
+new_x_coord: 228, new_y_coord: 336
+eye_x: 214, eye_y: 326
+distance_x: 1.0, distance_y: 3.0
+x_prev_coord: 226 y_prev_coord : 249
+new_x_coord: 225, new_y_coord: 252
+eye_x: 198, eye_y: 293
+distance_x: 1.0, distance_y: 1.0
+x_prev_coord: 214 y_prev_coord : 326
+new_x_coord: 213, new_y_coord: 325
+eye_x: 224, eye_y: 213
+distance_x: 2.0, distance_y: 4.0
+x_prev_coord: 198 y_prev_coord : 293
+new_x_coord: 200, new_y_coord: 289
+eye_x: 205, eye_y: 306
+distance_x: 1.0, distance_y: 4.0
+x_prev_coord: 224 y_prev_coord : 213
+new_x_coord: 223, new_y_coord: 217
+eye_x: 202, eye_y: 234
+distance_x: 0.0, distance_y: 3.0
+x_prev_coord: 205 y_prev_coord : 306
+new_x_coord: 205, new_y_coord: 303
+eye_x: 201, eye_y: 325
+distance_x: 0.0, distance_y: 4.0
+x_prev_coord: 202 y_prev_coord : 234
+new_x_coord: 202, new_y_coord: 238
+eye_x: 191, eye_y: 273
+distance_x: 0.0, distance_y: 2.0
+x_prev_coord: 201 y_prev_coord : 325
+new_x_coord: 201, new_y_coord: 323
+eye_x: 203, eye_y: 345
+distance_x: 1.0, distance_y: 3.0
+x_prev_coord: 191 y_prev_coord : 273
+new_x_coord: 192, new_y_coord: 276
+eye_x: 208, eye_y: 275
+distance_x: 0.0, distance_y: 3.0
+x_prev_coord: 203 y_prev_coord : 345
+new_x_coord: 203, new_y_coord: 342
+eye_x: 212, eye_y: 354
+distance_x: 0.0, distance_y: 3.0
+x_prev_coord: 208 y_prev_coord : 275
+new_x_coord: 208, new_y_coord: 278
+eye_x: 196, eye_y: 360
+distance_x: 1.0, distance_y: 0.0
+x_prev_coord: 212 y_prev_coord : 354
+new_x_coord: 211, new_y_coord: 354
+eye_x: 214, eye_y: 345
+distance_x: 1.0, distance_y: 0.0
+x_prev_coord: 196 y_prev_coord : 360
+new_x_coord: 197, new_y_coord: 360
+eye_x: 217, eye_y: 349
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 214 y_prev_coord : 345
+new_x_coord: 214, new_y_coord: 345
+eye_x: 207, eye_y: 356
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 217 y_prev_coord : 349
+new_x_coord: 217, new_y_coord: 349
+eye_x: 214, eye_y: 351
+distance_x: 0.0, distance_y: 0.0
+x_prev_coord: 207 y_prev_coord : 356
+new_x_coord: 207, new_y_coord: 356

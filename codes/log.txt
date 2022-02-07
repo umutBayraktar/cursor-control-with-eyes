@@ -1,0 +1,862 @@
+height: 1080
+True
+eye info x :610 y :392
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+j: 6
+j: 7
+eye info x :720 y :392
+j: 0
+j: 1
+j: 2
+True
+eye info x :718 y :390
+eye info x :612 y :388
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+j: 6
+j: 7
+j: 8
+True
+eye info x :713 y :387
+j: 0
+j: 1
+eye info x :604 y :387
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+j: 6
+True
+eye info x :707 y :384
+j: 0
+eye info x :603 y :384
+j: 0
+j: 1
+j: 2
+j: 3
+True
+eye info x :701 y :385
+j: 0
+eye info x :592 y :382
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+True
+eye info x :685 y :385
+j: 0
+eye info x :572 y :384
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+True
+eye info x :670 y :384
+j: 0
+j: 1
+eye info x :555 y :392
+j: 0
+j: 1
+True
+eye info x :668 y :374
+eye info x :564 y :386
+j: 0
+j: 1
+True
+eye info x :660 y :365
+j: 0
+j: 1
+eye info x :553 y :371
+j: 0
+j: 1
+j: 2
+True
+eye info x :669 y :379
+j: 0
+eye info x :558 y :383
+j: 0
+j: 1
+True
+eye info x :666 y :378
+j: 0
+eye info x :556 y :385
+j: 0
+j: 1
+True
+eye info x :669 y :381
+eye info x :569 y :389
+j: 0
+j: 1
+True
+eye info x :672 y :381
+eye info x :560 y :385
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+True
+eye info x :673 y :385
+j: 0
+j: 1
+eye info x :561 y :393
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+True
+eye info x :648 y :367
+True
+eye info x :658 y :375
+j: 0
+j: 1
+eye info x :565 y :385
+True
+eye info x :667 y :382
+eye info x :556 y :389
+j: 0
+True
+eye info x :670 y :384
+eye info x :561 y :392
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+True
+eye info x :680 y :390
+j: 0
+j: 1
+eye info x :558 y :391
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+j: 6
+j: 7
+True
+eye info x :676 y :387
+eye info x :566 y :387
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+True
+eye info x :667 y :380
+eye info x :560 y :390
+j: 0
+j: 1
+j: 2
+j: 3
+True
+eye info x :670 y :383
+j: 0
+eye info x :566 y :390
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+j: 6
+True
+eye info x :671 y :379
+eye info x :563 y :384
+True
+eye info x :668 y :379
+eye info x :562 y :384
+j: 0
+j: 1
+j: 2
+True
+eye info x :663 y :376
+j: 0
+j: 1
+eye info x :563 y :388
+j: 0
+j: 1
+j: 2
+True
+eye info x :666 y :380
+j: 0
+eye info x :565 y :391
+j: 0
+True
+eye info x :667 y :380
+j: 0
+j: 1
+eye info x :568 y :390
+j: 0
+j: 1
+True
+eye info x :664 y :379
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+eye info x :566 y :389
+True
+eye info x :664 y :381
+eye info x :559 y :391
+True
+eye info x :669 y :382
+j: 0
+j: 1
+eye info x :565 y :394
+True
+eye info x :659 y :374
+j: 0
+j: 1
+eye info x :565 y :388
+True
+eye info x :665 y :380
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+eye info x :562 y :391
+j: 0
+j: 1
+True
+eye info x :664 y :378
+j: 0
+j: 1
+eye info x :567 y :390
+True
+eye info x :666 y :383
+j: 0
+j: 1
+eye info x :565 y :397
+j: 0
+True
+eye info x :666 y :381
+eye info x :567 y :397
+True
+eye info x :667 y :384
+j: 0
+j: 1
+j: 2
+j: 3
+eye info x :564 y :396
+True
+eye info x :665 y :381
+j: 0
+eye info x :564 y :393
+True
+eye info x :566 y :397
+eye info x :667 y :383
+True
+eye info x :670 y :387
+eye info x :567 y :400
+True
+eye info x :665 y :383
+eye info x :569 y :398
+True
+eye info x :666 y :386
+j: 0
+j: 1
+j: 2
+eye info x :564 y :402
+True
+eye info x :665 y :383
+j: 0
+True
+eye info x :664 y :384
+j: 0
+j: 1
+eye info x :567 y :397
+True
+eye info x :668 y :387
+eye info x :566 y :400
+True
+eye info x :669 y :388
+eye info x :565 y :396
+True
+eye info x :665 y :385
+j: 0
+j: 1
+j: 2
+eye info x :567 y :397
+j: 0
+True
+eye info x :669 y :387
+True
+eye info x :666 y :386
+j: 0
+j: 1
+j: 2
+eye info x :569 y :399
+True
+eye info x :666 y :385
+j: 0
+eye info x :572 y :402
+True
+eye info x :662 y :385
+True
+eye info x :661 y :383
+eye info x :567 y :402
+True
+eye info x :659 y :380
+j: 0
+j: 1
+j: 2
+j: 3
+eye info x :569 y :407
+True
+eye info x :659 y :383
+j: 0
+j: 1
+eye info x :567 y :397
+j: 0
+True
+eye info x :663 y :388
+True
+eye info x :663 y :387
+eye info x :570 y :407
+y_min: 756
+y_max: 611
+y_rate: -0.13425925925925927
+True
+eye info x :653 y :377
+True
+eye info x :661 y :383
+True
+eye info x :666 y :387
+eye info x :566 y :396
+j: 0
+j: 1
+j: 2
+True
+eye info x :656 y :383
+True
+eye info x :673 y :395
+eye info x :570 y :406
+True
+eye info x :672 y :398
+j: 0
+j: 1
+j: 2
+j: 3
+eye info x :566 y :406
+True
+eye info x :671 y :395
+eye info x :565 y :402
+j: 0
+j: 1
+j: 2
+j: 3
+True
+eye info x :668 y :393
+j: 0
+eye info x :570 y :404
+j: 0
+True
+eye info x :675 y :397
+eye info x :568 y :406
+j: 0
+True
+eye info x :676 y :397
+j: 0
+eye info x :571 y :401
+True
+eye info x :670 y :395
+j: 0
+j: 1
+eye info x :574 y :402
+True
+eye info x :666 y :391
+eye info x :567 y :405
+j: 0
+j: 1
+j: 2
+j: 3
+True
+eye info x :666 y :394
+j: 0
+True
+eye info x :674 y :399
+j: 0
+eye info x :563 y :405
+j: 0
+j: 1
+j: 2
+j: 3
+True
+eye info x :665 y :392
+j: 0
+eye info x :561 y :401
+True
+eye info x :671 y :397
+j: 0
+j: 1
+j: 2
+True
+eye info x :672 y :396
+eye info x :573 y :406
+j: 0
+True
+eye info x :668 y :394
+eye info x :566 y :400
+j: 0
+j: 1
+j: 2
+True
+eye info x :674 y :398
+eye info x :565 y :396
+j: 0
+j: 1
+j: 2
+j: 3
+True
+eye info x :671 y :393
+eye info x :571 y :406
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+True
+eye info x :674 y :397
+eye info x :579 y :407
+j: 0
+j: 1
+True
+eye info x :664 y :391
+j: 0
+j: 1
+j: 2
+j: 3
+eye info x :571 y :403
+j: 0
+j: 1
+j: 2
+True
+eye info x :666 y :392
+eye info x :570 y :404
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+True
+eye info x :673 y :399
+eye info x :568 y :404
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+True
+eye info x :671 y :396
+j: 0
+eye info x :565 y :405
+j: 0
+j: 1
+True
+eye info x :663 y :390
+eye info x :563 y :400
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+True
+eye info x :666 y :393
+eye info x :567 y :402
+j: 0
+True
+eye info x :667 y :391
+eye info x :569 y :399
+j: 0
+j: 1
+j: 2
+j: 3
+True
+eye info x :670 y :398
+eye info x :565 y :402
+True
+eye info x :667 y :394
+True
+eye info x :664 y :393
+eye info x :565 y :408
+True
+eye info x :664 y :393
+j: 0
+j: 1
+eye info x :565 y :404
+j: 0
+j: 1
+j: 2
+True
+eye info x :663 y :392
+eye info x :565 y :406
+j: 0
+True
+eye info x :667 y :395
+eye info x :564 y :408
+True
+eye info x :666 y :396
+eye info x :565 y :404
+j: 0
+j: 1
+j: 2
+j: 3
+True
+eye info x :663 y :392
+eye info x :564 y :400
+j: 0
+j: 1
+j: 2
+True
+eye info x :665 y :394
+True
+eye info x :664 y :393
+j: 0
+eye info x :572 y :412
+j: 0
+True
+eye info x :665 y :392
+j: 0
+eye info x :568 y :407
+True
+eye info x :663 y :394
+j: 0
+eye info x :568 y :403
+True
+eye info x :662 y :390
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+eye info x :567 y :412
+j: 0
+j: 1
+j: 2
+j: 3
+True
+eye info x :663 y :394
+j: 0
+eye info x :560 y :405
+j: 0
+j: 1
+j: 2
+j: 3
+True
+eye info x :663 y :392
+eye info x :567 y :404
+j: 0
+True
+eye info x :659 y :389
+eye info x :569 y :409
+True
+eye info x :664 y :394
+j: 0
+eye info x :564 y :403
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+True
+eye info x :669 y :395
+True
+eye info x :665 y :395
+j: 0
+j: 1
+j: 2
+j: 3
+eye info x :566 y :404
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+True
+eye info x :667 y :394
+eye info x :569 y :405
+j: 0
+j: 1
+True
+eye info x :659 y :391
+eye info x :562 y :399
+j: 0
+True
+eye info x :664 y :396
+j: 0
+True
+eye info x :661 y :392
+j: 0
+eye info x :565 y :406
+True
+eye info x :662 y :395
+eye info x :562 y :403
+j: 0
+j: 1
+j: 2
+j: 3
+True
+eye info x :663 y :395
+eye info x :565 y :410
+True
+eye info x :659 y :390
+j: 0
+j: 1
+j: 2
+eye info x :566 y :398
+True
+eye info x :666 y :396
+eye info x :572 y :407
+True
+eye info x :664 y :394
+j: 0
+eye info x :570 y :408
+j: 0
+j: 1
+j: 2
+True
+eye info x :661 y :394
+eye info x :566 y :407
+j: 0
+j: 1
+j: 2
+j: 3
+True
+eye info x :660 y :394
+j: 0
+True
+eye info x :660 y :395
+eye info x :565 y :409
+True
+eye info x :660 y :396
+j: 0
+eye info x :557 y :398
+True
+eye info x :660 y :395
+eye info x :562 y :412
+j: 0
+j: 1
+True
+eye info x :658 y :394
+j: 0
+j: 1
+eye info x :561 y :408
+j: 0
+True
+eye info x :659 y :392
+eye info x :565 y :409
+True
+eye info x :659 y :391
+j: 0
+j: 1
+eye info x :569 y :411
+True
+eye info x :665 y :396
+j: 0
+eye info x :564 y :412
+j: 0
+j: 1
+True
+eye info x :655 y :391
+eye info x :563 y :408
+True
+eye info x :659 y :393
+eye info x :566 y :410
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+True
+eye info x :659 y :395
+j: 0
+eye info x :563 y :412
+True
+eye info x :661 y :396
+eye info x :567 y :407
+j: 0
+True
+eye info x :664 y :396
+eye info x :563 y :408
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+True
+eye info x :658 y :390
+eye info x :563 y :406
+j: 0
+j: 1
+j: 2
+True
+eye info x :663 y :397
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+j: 5
+j: 6
+j: 7
+eye info x :713 y :560
+True
+eye info x :660 y :392
+eye info x :564 y :407
+True
+eye info x :660 y :390
+eye info x :564 y :403
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+True
+eye info x :661 y :396
+j: 0
+j: 1
+eye info x :566 y :412
+j: 0
+True
+eye info x :657 y :393
+eye info x :571 y :414
+True
+eye info x :659 y :394
+j: 0
+eye info x :561 y :408
+j: 0
+j: 1
+j: 2
+j: 3
+j: 4
+True
+eye info x :661 y :397
+j: 0
+j: 1
+j: 2
+j: 3
+True
+eye info x :658 y :395
+eye info x :560 y :405
+True
+eye info x :659 y :391
+j: 0
+j: 1
+j: 2
+j: 3
+eye info x :561 y :408
+True
+eye info x :663 y :397
+j: 0
+eye info x :564 y :409
+j: 0
+j: 1
+j: 2
+True
+eye info x :661 y :394
+j: 0
+j: 1
+j: 2
+j: 3
+eye info x :568 y :411
+j: 0
+j: 1
+True
+eye info x :659 y :394
+j: 0
+eye info x :562 y :401
+j: 0
+j: 1
+j: 2
+True
+eye info x :663 y :395
+j: 0
+eye info x :565 y :406
+True
+eye info x :659 y :394
+j: 0
+j: 1
+j: 2
+eye info x :564 y :407
+True
+eye info x :658 y :392
+j: 0
+eye info x :559 y :407
+True
+eye info x :658 y :392
+j: 0
+j: 1
+j: 2
+eye info x :565 y :409
+True
+eye info x :657 y :391
+j: 0
+eye info x :561 y :401
+True
+eye info x :660 y :395
+eye info x :562 y :408
+j: 0
+True
+eye info x :662 y :396
+eye info x :564 y :404
+True
+eye info x :662 y :395
+eye info x :563 y :414
+True
+eye info x :663 y :397
+j: 0
+True
+eye info x :664 y :397
+eye info x :564 y :408
+True
+eye info x :656 y :393
+j: 0
+j: 1
+eye info x :561 y :403
+True
+eye info x :659 y :396
+j: 0
+j: 1
+eye info x :558 y :404
+True
+eye info x :666 y :398
+j: 0
+j: 1
+j: 2
+j: 3
+eye info x :562 y :407
+True
+eye info x :661 y :395
+j: 0
+j: 1
+j: 2
+eye info x :561 y :401
+j: 0
